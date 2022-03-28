@@ -3,7 +3,7 @@
 <p align='center'> 💪 "Be growing up as a Developer" 👍 </p>
 
 <p align='center'>
-  <a href="https://github.com/xilverh0ya/ITStudy/labels/Idea">
+  <a href="https://github.com/xilverh0ya/MyStudy/issues">
     <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
   <a href="#demo">
