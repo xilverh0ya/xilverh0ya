@@ -26,6 +26,7 @@ ___
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -36,6 +37,7 @@ ___
   <img src="https://img.shields.io/badge/Pycharm-000000?logo=Pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Colab-FFAE1A?logo=GoogleColab&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=white"/>
 </p>
@@ -45,9 +47,7 @@ ___
 <p align='center'>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white"/>
-</p>
-
-<p align='center'>
+  <br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white"/>
 </p>
