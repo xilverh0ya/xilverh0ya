@@ -31,8 +31,8 @@
 ___
 
 # My Study
-> [Python](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic)
->> [점프 투 파이썬](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic/jumpToPython)
->> [데이터 분석을 위한 파이썬 철저 입문](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic/aThoroughIntroductionToPythonForDataAnalysis)
+> - [Python](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic)
+  >> - [점프 투 파이썬](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic/jumpToPython)  
+  >> - [데이터 분석을 위한 파이썬 철저 입문](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic/aThoroughIntroductionToPythonForDataAnalysis)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=8B00FF)
