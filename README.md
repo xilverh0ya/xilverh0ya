@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<br>
+---
 
 <p align='center'> 🤍Skill🤍 </p>
 <p align='center'>
@@ -24,15 +24,19 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB99?logo=GoogleColab&logoColor=black"/>
 </p>
 
-<br>
+___
+
 
 # My Project
 > Comming Soon!
+
 ___
 
 # My Study
 > - [Python](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic)
   >> - [점프 투 파이썬](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic/jumpToPython)  
   >> - [데이터 분석을 위한 파이썬 철저 입문](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic/aThoroughIntroductionToPythonForDataAnalysis)
+
+___
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=8B00FF)
