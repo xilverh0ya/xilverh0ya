@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8B00FF&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=xilverh0ya's%20GitHub&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8B00FF&height=300&section=header&text=Eunho's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20CV/NLP&descAlignY=51&descAlign=62)
 
 <p align='center'> 💪 "Be growing up as a Developer" 👍 </p>
 
@@ -17,6 +17,9 @@
 <p align='center'>
   <a href="https://xilverh0ya.github.io/">
     <img src="https://img.shields.io/badge/DevBlog-222222?logo=Blogger&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/h0ya95/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -38,8 +41,14 @@ ___
 <p align='center'>
   <!-- <img src="https://img.shields.io/badge/Pycharm-000000?logo=Pycharm&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Google Colab-FFAE1A?logo=GoogleColab&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?logo=IntelliJ IDEA&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white"/>
+  <br>
+  <!-- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/> -->
   <!--
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=white"/>
@@ -47,15 +56,17 @@ ___
 </p>
 
 <p align='center'> 🤍DL/ML🤍 </p>
-<!--
+
 <p align='center'>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white"/>
   <br>
+  <!--
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white"/>
+  -->
 </p>
--->
+
 
 ___
 
