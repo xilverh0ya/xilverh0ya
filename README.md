@@ -13,7 +13,7 @@
 
 ---
 
-<p align='center'> 🤍SNS/Community🤍 </p>
+<p align='center'> 👋 SNS/Community 👋 </p>
 <p align='center'>
   <a href="https://xilverh0ya.github.io/">
     <img src="https://img.shields.io/badge/DevBlog-222222?logo=Blogger&logoColor=white"/>
@@ -29,7 +29,7 @@
 
 ___
 
-<p align='center'> 🤍Skill🤍 </p>
+<p align='center'> ⭐ Skill ⭐ </p>
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -42,12 +42,14 @@ ___
   -->
 </p>
 
-<p align='center'> 🤍Tool🤍 </p>
+<p align='center'> 🛠 Tool 🛠 </p>
 <p align='center'>
-  <!-- <img src="https://img.shields.io/badge/Pycharm-000000?logo=Pycharm&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/Google Colab-FFAE1A?logo=GoogleColab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?logo=IntelliJ IDEA&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Colab-FFAE1A?logo=GoogleColab&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Pycharm-000000?logo=Pycharm&logoColor=white"/> -->
   <br>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"/>
   <br>
@@ -55,14 +57,13 @@ ___
   <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white"/>
   <br>
-  <!-- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/> -->
   <!--
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=white"/>
   -->
 </p>
 
-<p align='center'> 🤍DL/ML🤍 </p>
+<p align='center'> ♟ DL/ML ♟ </p>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
