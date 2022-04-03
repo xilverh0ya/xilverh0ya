@@ -13,13 +13,17 @@
 
 ---
 
-<p align='center'> 🤍SNS🤍 </p>
+<p align='center'> 🤍SNS/Community🤍 </p>
 <p align='center'>
   <a href="https://xilverh0ya.github.io/">
     <img src="https://img.shields.io/badge/DevBlog-222222?logo=Blogger&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/h0ya95/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/>
+  </a>
+  </a>
+  <a href="https://stackoverflow.com/users/18604002/xilver-h0ya">
+    <img src="https://img.shields.io/badge/Stack Overflow-F58025?logo=Stack Overflow&logoColor=white"/>
   </a>
 </p>
 
@@ -30,6 +34,7 @@ ___
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=white"/>
   <!--
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
@@ -43,6 +48,8 @@ ___
   <img src="https://img.shields.io/badge/Google Colab-FFAE1A?logo=GoogleColab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?logo=IntelliJ IDEA&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"/>
