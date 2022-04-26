@@ -77,13 +77,13 @@ ___
 
 
 # Recent Project
-> Comming Soon!
+> [Playdata 인공지능 19기 미니프로젝트](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/220423)
 
 ___
 
 
 # My Project
-> Comming Soon!
+> [Playdata 인공지능 19기 미니프로젝트](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project)
 
 ___
 
