@@ -77,15 +77,15 @@ ___
 
 
 # Recent Project
-> [[Kaggle]Porto Seguro 데이터셋 연습](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/220423)
+> * [[Kaggle]Porto Seguro 데이터셋 연습](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/220423)
 
 ___
 
 
 # My Project
-> [Playdata 인공지능 19기 미니프로젝트](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project)
->> [[Kaggle]Porto Seguro 데이터셋 연습](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/220423)
-
+> * [Playdata 인공지능 19기 미니프로젝트](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project)
+>> ML
+>>> * [[Kaggle]Porto Seguro 데이터셋 연습](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/220423)
 ___
 
 # [My Study](https://github.com/xilverh0ya/MyStudy)
