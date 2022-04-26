@@ -77,7 +77,7 @@ ___
 
 
 # Recent Project
-> * [[Kaggle]Porto Seguro 데이터셋 연습](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/220423)
+> * [[Kaggle]Porto Seguro 데이터셋 연습](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/Kaggle_01_Porto%20Seguro%20Dataset%20Prac)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 # My Project
 > [[BootCamp] Playdata 인공지능 19기 미니프로젝트](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project)
 >> ML
->>> * [[Kaggle]Porto Seguro 데이터셋 연습](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/220423)
+>>> * [[Kaggle]Porto Seguro 데이터셋 연습](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/Kaggle_01_Porto%20Seguro%20Dataset%20Prac)
 ___
 
 # [My Study](https://github.com/xilverh0ya/MyStudy)
