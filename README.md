@@ -92,6 +92,10 @@ ___
 > - [**Python**](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic)
   >> - [점프 투 파이썬](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic/jumpToPython)  
   >> - [데이터 분석을 위한 파이썬 철저 입문](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic/aThoroughIntroductionToPythonForDataAnalysis)
+<br>
+> - [**ML**]
+  >> - [(Playdata)머신러닝 기초](https://github.com/xilverh0ya/MyStudy/tree/master/04_ML_DL/01_Machine_Learning)
+  >> - [OpenCV로 배우는 CV와 머신러닝](https://github.com/xilverh0ya/MyStudy/tree/master/04_ML_DL/02_Deep_Learning_with_OpenCV)
 
 ___
 
