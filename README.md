@@ -66,7 +66,7 @@ ___
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white"/>
   <br>
-  <img src="https://img.shileds.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white"/>
   <!--
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white"/>
