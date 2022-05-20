@@ -95,6 +95,7 @@ ___
 > - [**Python**](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic)
   >> - [점프 투 파이썬](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic/jumpToPython)  
   >> - [데이터 분석을 위한 파이썬 철저 입문](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic/aThoroughIntroductionToPythonForDataAnalysis)
+  >> - [[나도코딩] 데이터 분석 및 시각화](https://github.com/xilverh0ya/MyStudy/tree/master/01_pythonBasic/nadoCoding_Visuallize)
 <br>  
 
 > - **ML & DL**
