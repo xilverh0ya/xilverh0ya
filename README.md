@@ -4,7 +4,10 @@
 
 <p align='center'>
   <a href="https://github.com/xilverh0ya/MyStudy/issues">
-    <img src="https://img.shields.io/badge/RECENT%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href="https://github.com/xilverh0ya/Midnight_Diner/issues">
+    <img src="https://img.shields.io/badge/PROJECT%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
 
