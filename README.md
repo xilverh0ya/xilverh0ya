@@ -114,6 +114,6 @@ ___
 
 ![Xilver's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilverh0ya&&show_icons=true&theme=radical)
 
-![](./profile-3d-contrib/profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=8B00FF)
