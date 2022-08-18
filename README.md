@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8B00FF&height=300&section=header&text=Eunho's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20CV/NLP&descAlignY=51&descAlign=62)
 
-<p align='center'> 💪 "Be growing up as a Developer" 👍 </p>
+<p align='center'> 💪 "Be growing up as a <b>GOOD</b> Developer" 👍 </p>
 
 <p align='center'>
   <a href="https://github.com/xilverh0ya/MyStudy/issues">
@@ -28,9 +28,20 @@
 </p>
 
 ___
+<p align='left'> 🎤 Introduce 🎤 </p>
+<p align='left'>
+  Hi! I intereted in ML, DL, and AI.
+  <br>
+  Especially among them, My target Domain is Computer Vision and Natural Language Processing.
+  <br>
+  I hope developing COOL things with good person.
+  <br>
+  So, I'll continue to study hard to become a good person too. Thanks!
 
-<p align='center'> ⭐ Skill ⭐ </p>
-<p align='center'>
+___
+
+<p align='left'> ⭐ Skill ⭐ </p>
+<p align='left'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
   <br>
@@ -42,8 +53,10 @@ ___
   -->
 </p>
 
-<p align='center'> 🛠 Tool 🛠 </p>
-<p align='center'>
+___
+
+<p align='left'> 🛠 Tool 🛠 </p>
+<p align='left'>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=Android Studio&logoColor=white"/>
@@ -62,15 +75,13 @@ ___
   <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white"/>
   <br>
-  <!--
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=white"/>
-  -->
 </p>
 
-<p align='center'> ♟ DL/ML ♟ </p>
+___
 
-<p align='center'>
+<p align='left'> ♟ DL/ML ♟ </p>
+
+<p align='left'>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white"/>
   <br>
@@ -79,7 +90,6 @@ ___
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/>
-  -->
 </p>
 
 
@@ -94,7 +104,7 @@ ___
 > * CV
 >> * [[SideProject] CatchV]()
 
-> * [[BootCamp] Playdata 인공지능 19기 미니프로젝트](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project)
+> * BootCamp
 >> **ML**
 >>> * [[Kaggle]Porto Seguro 데이터셋 연습](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/Kaggle_01_Porto%20Seguro%20Dataset%20Prac)
 
