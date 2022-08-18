@@ -46,6 +46,7 @@ ___
 <p align='center'>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?logo=IntelliJ IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=Android Studio&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Colab-FFAE1A?logo=GoogleColab&logoColor=white"/>
@@ -70,9 +71,10 @@ ___
   <img src="https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white"/>
-  <!--
+  <br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/>
   -->
 </p>
 
