@@ -105,8 +105,10 @@ ___
 >> * [[SideProject] CatchV](https://github.com/tmdqja75/CleanData)
 
 > * BootCamp
->> **ML**
+>> * ML
 >>> * [[Kaggle]Porto Seguro 데이터셋 연습](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/Kaggle_01_Porto%20Seguro%20Dataset%20Prac)
+>> * DL
+>>> * [[Kaggle]Tweet Disaster NLP Basic](https://github.com/xilverh0ya/MyStudy/tree/master/06_Mini_Project/Kaggle_02_Narutal%20Language%20Processing%20with%20Disaster%20Tweets)
 
 ___
 
