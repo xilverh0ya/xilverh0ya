@@ -102,7 +102,7 @@ ___
 >> * [[SideProject] 심야식당](https://github.com/xilverh0ya/Midnight_Diner)
 
 > * CV
->> * [[SideProject] CatchV]()
+>> * [[SideProject] CatchV](https://github.com/tmdqja75/CleanData)
 
 > * BootCamp
 >> **ML**
