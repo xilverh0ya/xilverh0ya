@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8B00FF&height=300&section=header&text=Xilver's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Main%20Skill%20:%20CV/NLP&descAlignY=51&descAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=300&section=header&text=Xilver's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Main%20Skill%20:%20CV/NLP&descAlignY=51&descAlign=75)
 
 ### "Be growing up as a GOOD Developer"
 ___
@@ -85,4 +85,4 @@ ___
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxilverh0ya&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>          
 </p>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=8B00FF)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=C0C0C0)
