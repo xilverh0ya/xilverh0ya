@@ -17,6 +17,7 @@ ___
 ## Main Project
 
 ### [1. 취향식탁](https://adaptable-newsboy-3bc.notion.site/ppt-bf8e30a6595c4fc098071ab75f9bce4a)
+  - ㈜요기요 마케팅 팀 프레젠테이션
   - 리뷰에 대한 키워드 분석
   - 키워드 기반 맛집 추천 서비스
 ### [2. CatchV](https://www.notion.so/da92758cda7743d09a4b6931a3605e16)
